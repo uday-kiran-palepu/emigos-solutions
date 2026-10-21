@@ -1,0 +1,12 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 200 60" fill="none">
+  <g transform="translate(10, 8)">
+    <!-- Buildings -->
+    <path d="M6 38 V18 L16 12 V38 H6 Z" fill="#0284C7"/>
+    <path d="M18 38 V8 L30 2 V38 H18 Z" fill="#0F172A"/>
+    <path d="M32 38 V22 L40 16 V38 H32 Z" fill="#E11D48"/>
+    <!-- Roof highlight -->
+    <path d="M2 28 L24 16 L44 28" stroke="#E11D48" stroke-width="2.5" stroke-linecap="round"/>
+  </g>
+  <text x="62" y="28" font-family="'Space Grotesk', 'Inter', sans-serif" font-size="15" font-weight="800" fill="#0F172A" letter-spacing="0.5">HITESH REALTY</text>
+  <text x="62" y="42" font-family="'Inter', sans-serif" font-size="9" font-weight="600" fill="#64748B" letter-spacing="1">PROPERTY CONSULTANTS</text>
+</svg>
